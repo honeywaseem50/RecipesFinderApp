@@ -1,0 +1,40 @@
+# Recipe Finder 
+
+Recipe Finder is a simple web application that allows users to search for recipes by entering a recipe name.
+
+## Features
+
+- Search recipes by name
+- Uses TheMealDB API
+- Shows recipe details
+- Displays a message when a recipe is not found
+- Shows a message if the user leaves the search box empty
+- Simple and user-friendly interface
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- REST API
+- TheMealDB API
+
+## How It Works
+
+1. Enter a recipe name in the search box like Apple pie, Chocolates, Biryani etc.
+2. Click the search button.
+3. The app sends a request to TheMealDB API.
+4. If the recipe is found, its details are displayed.
+5. If the recipe is not found, an error message is shown.
+
+## API Used
+
+TheMealDB API
+
+## Project Purpose
+
+This project was created to practice JavaScript, API calling, Promises, and error handling.
+
+## Author
+
+Hania Waseem Khan :) 
